@@ -8,7 +8,7 @@ Well, **I love Chemistry**, so I made this game
 
 好的我简单说下使用方式：下载[Release.zip](Release.zip)，解压后会有两个文件Game.exe和IMG文件夹，点击Game.exe就好了，IMG文件夹里面的是图像资源。
 
-游戏内容没有多少，会更新的。
+游戏内容没有多少，会更新的。手机端就算了，仅限Windows。
 
 咋下载？右上角那么大个绿色按钮看不见吗！！
 
