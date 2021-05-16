@@ -10,6 +10,8 @@ Well, **I love Chemistry**, so I made this game
 
 游戏内容没有多少，会更新的。
 
+咋下载？右上角那么大个绿色按钮看不见吗！！
+
 ## Post Revisions
 
 #### Version 0.1 [latest]
