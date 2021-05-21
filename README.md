@@ -12,8 +12,19 @@ Well, **I love Chemistry**, so I made this game
 
 咋下载？右上角那么大个绿色按钮看不见吗！！
 
+[Solutions](Solutions.md)
+
 ## Post Revisions
 
-#### Version 0.1 [latest]
+#### Version 0.1.1 [latest]
+2021-5-22
+- 修改新手教程部分流程
+- 修改化学式图片，更养眼
+- 修改第二关题目
+- 新增化学式
+- 新增第三关
+- 修复了部分BUG
+
+##### Version 0.1
 2021-5-16
-第一关，第二关，新手教程
+- 新增第一关、第二关、新手教程
