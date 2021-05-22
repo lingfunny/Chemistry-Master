@@ -10,7 +10,8 @@ Well, **I love Chemistry**, so I made this game
 
 游戏内容没有多少，会更新的。手机端就算了，仅限Windows。
 
-咋下载？右上角那么大个绿色按钮看不见吗！！
+咋下载？点击[Release.zip](Release.zip)后会有个`Download`按钮~
+![IMAGE](/source/help_1.png)
 
 [Solutions](Solutions.md)
 
