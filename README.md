@@ -18,13 +18,16 @@ Well, **I love Chemistry**, so I made this game
 
 ## Post Revisions
 
-#### Version 0.1.1 [latest]
+#### Version 0.1.2 [Preview]
+- 新增主界面
+- 删除[新手教程]，更换为[帮助]
+- 增加各个关卡的限制/难度
+
+#### Version 0.1.1 [Latest Released Version]
 2021-5-22
-- 修改新手教程部分流程
-- 修改化学式图片，更养眼
-- 修改第二关题目
-- 新增化学式
-- 新增第三关
+- 修改部分关卡，新增部分关卡
+- 优化化学式图片
+- 新增`Restart`按钮、取下反应物等功能
 - 修复了部分BUG
 
 ##### Version 0.1
