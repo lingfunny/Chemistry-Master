@@ -4,7 +4,7 @@
 
 **化学赛高**，所以做了这个~~寓教于乐的~~游戏
 
-Well, **I love Chemistry**, so I made this game
+**I love Chemistry**, so I made this game
 
 化学が**好き好き大好き**、だからこのゲームを作りました
 
