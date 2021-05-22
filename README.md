@@ -12,9 +12,11 @@
 
 游戏内容没有多少，会更新的。手机端就算了，仅限Windows。
 
-咋下载？点击[Release.zip](Release.zip)后会有个`Download`按钮~
+咋下载？看右边的绿色Releases！
 
-![IMAGE](https://cdn.luogu.com.cn/upload/image_hosting/p0tlmohq.png)
+![Step1](https://cdn.luogu.com.cn/upload/image_hosting/d43d9jfi.png)
+
+![Step2](https://cdn.luogu.com.cn/upload/image_hosting/1e6jsiyf.png)
 
 [Solutions](Solutions.md)
 
