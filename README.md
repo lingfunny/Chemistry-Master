@@ -12,7 +12,7 @@ Well, **I love Chemistry**, so I made this game
 
 咋下载？点击[Release.zip](Release.zip)后会有个`Download`按钮~
 
-![IMAGE](/source/help_1.png)
+![IMAGE](source\\help_1.png)
 
 [Solutions](Solutions.md)
 
