@@ -20,6 +20,11 @@
 
 [Solutions](Solutions.md)
 
+## Q&A
+
+Q：新版本的关卡进度不保留？\
+A：可以直接把旧版本的[save.dat]复制到新版本目录。
+
 ## Post Revisions
 
 ### Version 0.1.2 [Latest Released Version]
