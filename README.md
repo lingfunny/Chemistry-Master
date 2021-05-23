@@ -70,3 +70,5 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 题目需要描述一开始拥有的化学物质和最终目标。\
 解题思路可以参考[官方题解](Solutions.md)。\
 **最最重要的是，请在你投稿邮件的主题加上`[投稿]`！！！**
+
+![Help](https://cdn.luogu.com.cn/upload/image_hosting/phdjf2as.png)
