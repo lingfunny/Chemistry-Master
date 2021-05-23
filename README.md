@@ -73,3 +73,7 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 **最最重要的是，请在你投稿邮件的主题加上`[投稿]`！！！**
 
 ![一封优秀的投稿是怎样炼成的](https://cdn.luogu.com.cn/upload/image_hosting/phdjf2as.png)
+
+已开放BUG反馈。
+
+你可以对自己遇到的BUG进行描述，并**在电子邮件的主题加上`[反馈]`**，同样发送至`lingfunny.real@qq.com`。
