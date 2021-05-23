@@ -8,7 +8,7 @@
 
 化学が**好き好き大好き**、だからこのゲームを作りました
 
-好的我简单说下使用方式：下载[Release.zip](Release.zip)，解压后会有两个文件Game.exe和IMG文件夹，点击Game.exe就好了，IMG文件夹里面的是图像资源。
+好的我简单说下使用方式：下载[Release.zip](https://github.com/lingfunny/Chemistry-Master/releases)，解压后会有两个文件Game.exe和IMG文件夹，点击Game.exe就好了，IMG文件夹里面的是图像资源。
 
 游戏内容没有多少，会更新的。手机端就算了，仅限Windows。
 
