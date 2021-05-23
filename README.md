@@ -30,7 +30,7 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 ### Version 0.1.3 [Preview]
 
 - 自定义关卡
-- 关卡投稿
+- [关卡投稿](## How to Contribute)
 - *上传关卡（未定）*
 
 ### Version 0.1.2 [Latest Released Version]
@@ -61,3 +61,11 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 2021-5-16
 
 - 新增第一关、第二关、新手教程
+
+## How to Contribute
+
+已开放投稿。
+
+当前投稿较麻烦，你需要描述你想出的题目，并且写出完整的解题思路，并将题目作为邮件发送至`lingfunny.real@qq.com`。\
+题目需要描述一开始拥有的化学物质和最终目标。\
+解题思路可以参考[官方题解](Solution.md)。
