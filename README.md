@@ -64,7 +64,7 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 
 ## How to Contribute
 
-已开放投稿。
+- 已开放投稿。
 
 当前投稿较麻烦，你需要描述你想出的题目，并且写出完整的解题思路，并将题目作为邮件发送至`lingfunny.real@qq.com`。\
 ~~正在想办法优化~~\
@@ -74,6 +74,6 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 
 ![一封优秀的投稿是怎样炼成的](https://cdn.luogu.com.cn/upload/image_hosting/phdjf2as.png)
 
-已开放BUG反馈。
+- 已开放BUG反馈。
 
 你可以对自己遇到的BUG进行描述，并**在电子邮件的主题加上`[反馈]`**，同样发送至`lingfunny.real@qq.com`。
