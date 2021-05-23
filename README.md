@@ -30,7 +30,8 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 ### Version 0.1.3 [Preview]
 
 - 自定义关卡
-- 关卡投稿~~或上传（未定）~~
+- 关卡投稿
+- *上传关卡（未定）*
 
 ### Version 0.1.2 [Latest Released Version]
 
