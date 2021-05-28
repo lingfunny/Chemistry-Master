@@ -18,7 +18,7 @@
 
 ![Step2](https://cdn.luogu.com.cn/upload/image_hosting/1e6jsiyf.png)
 
-[Solutions](Solutions.md)
+### [Solutions](Solutions.md)
 
 ## Q&A
 
