@@ -27,13 +27,21 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 
 ## Post Revisions
 
-### Version 0.1.3 [Preview]
+### Version 0.1.4 [Preview]
 
 - 自定义关卡
 - [关卡投稿](#how-to-contribute)
 - *上传关卡（未定）*
 
-### Version 0.1.2 [Latest Released Version]
+### Version 0.1.3 [Latest Released Version]
+
+2021-6-4
+
+- 修改操作方式
+- 增加关卡
+- 内部优化
+
+#### Version 0.1.2
 
 2021-5-23
 
