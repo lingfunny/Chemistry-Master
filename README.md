@@ -1,5 +1,11 @@
 # Chemistry-Master
 
+## !NOTICE!
+
+中考前暂时停止更新。
+
+Stop updating temporarily due to the senior high school entrance examination.
+
 ## Introduction
 
 **化学赛高**，所以做了这个~~寓教于乐的~~游戏
