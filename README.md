@@ -41,7 +41,7 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 - 新增`选关`
 - *上传关卡（未定）*
 
-### Version 0.1.3 [Latest Released Version]
+### [Version 0.1.3 [Latest Released Version]](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.3)
 
 2021-6-4
 
@@ -50,34 +50,10 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 - [关卡投稿](#how-to-contribute)
 - 内部优化
 
-#### Version 0.1.2
+### Others
 
-2021-5-23
-
-**重要：由于奇怪的BUG，这个版本的程序仅支持64位操作系统。如果发现下载了打不开，可能是电脑的操作系统较低（如32位操作系统）。但还是上传了32bit的程序供试用。**
-
-- 新增主界面
-- 新增部分功能
-- 删除[新手教程]，更换为[Help]
-- 增加各个关卡的限制/难度
-- 修复闪屏问题
-- 优化加载/转场
-- 美化界面/按钮设计
-
-#### Version 0.1.1
-
-2021-5-22
-
-- 修改部分关卡，新增部分关卡
-- 优化化学式图片
-- 新增`Restart`按钮、取下反应物等功能
-- 修复了部分BUG
-
-#### Version 0.1.0
-
-2021-5-16
-
-- 新增第一关、第二关、新手教程
+- [v0.1.2](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.2)
+- [v0.1.1](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.1)
 
 ## How to Contribute
 
