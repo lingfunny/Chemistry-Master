@@ -33,6 +33,10 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 
 ## Post Revisions
 
+- [v0.1.0](#version-0.1.0)
+- [v0.1.1](#version-0.1.1)
+
+
 ### Version 0.1.4 [Preview]
 
 - 自定义关卡
