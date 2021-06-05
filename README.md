@@ -36,7 +36,8 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 ### Version 0.1.4 [Preview]
 
 - 自定义关卡
-- [关卡投稿](#how-to-contribute)
+- 优化加载速度
+- 修改化学式样式
 - *上传关卡（未定）*
 
 ### Version 0.1.3 [Latest Released Version]
@@ -45,6 +46,7 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 
 - 修改操作方式
 - 增加关卡
+- [关卡投稿](#how-to-contribute)
 - 内部优化
 
 #### Version 0.1.2
