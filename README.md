@@ -6,6 +6,8 @@
 
 Stop updating temporarily due to the senior high school entrance examination.
 
+**From 2021.6.5 to 2021.7.1**
+
 ## Introduction
 
 **化学赛高**，所以做了这个~~寓教于乐的~~游戏
