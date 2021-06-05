@@ -33,25 +33,18 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 
 ## Post Revisions
 
-### Version 0.1.4 [Preview]
+### [Version 0.1.4 [Latest Released Version]](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.4)
 
-- 自定义关卡
+2021-6-5
+
 - 优化加载速度
 - 修改化学式样式
-- 新增`选关`
-- *上传关卡（未定）*
-
-### [Version 0.1.3 [Latest Released Version]](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.3)
-
-2021-6-4
-
-- 修改操作方式
-- 增加关卡
-- [关卡投稿](#how-to-contribute)
-- 内部优化
+- 新增`选关`和`自定义`
+- 暂时删除`帮助`
 
 ### Others
 
+- [v0.1.3](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.3)
 - [v0.1.2](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.2)
 - [v0.1.1](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.1)
 
