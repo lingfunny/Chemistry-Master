@@ -35,6 +35,12 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 
 ## Post Revisions
 
+### Version 0.2.0 [Preview]
+
+- 优化界面设计
+- 完善`帮助`系统
+- ~~上传功能：可以上传你的自定义关卡并被别人搜索到~~
+
 ### [Version 0.1.4 [Latest Released Version]](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.4)
 
 2021-6-5
