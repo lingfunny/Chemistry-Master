@@ -4,7 +4,7 @@
 
 中考前暂时停止更新。中考后会发布**v0.2.0**。
 
-Stop updating temporarily due to the senior high school entrance examination. **v0.2.0** will be released after the examination.
+Stop updating temporarily due to the senior high school entrance examination. **v0.2.0** will be released after the exam.
 
 **From 2021.6.5 to 2021.7.7**
 
