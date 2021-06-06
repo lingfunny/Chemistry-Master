@@ -6,7 +6,7 @@
 
 Stop updating temporarily due to the senior high school entrance examination.
 
-**From 2021.6.5 to 2021.7.1**
+**From 2021.6.5 to 2021.7.7**
 
 ## Introduction
 
