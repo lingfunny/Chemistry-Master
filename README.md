@@ -10,21 +10,18 @@ Stop updating temporarily due to the senior high school entrance examination. [*
 
 ## Introduction
 
-**化学赛高**，所以做了这个~~寓教于乐的~~游戏
-
-**I love Chemistry**, so I made this game
-
+**化学赛高**，所以做了这个~~寓教于乐的~~游戏\
+**I love Chemistry**, so I made this game\
 化学が**好き好き大好き**、だからこのゲームを作りました
 
-好的我简单说下使用方式：下载[Release.zip](https://github.com/lingfunny/Chemistry-Master/releases)，解压后会有两个文件Game.exe和IMG文件夹，点击Game.exe就好了，IMG文件夹里面的是图像资源。
+Chemistry-Master is a C++ Game and using [easyx](https://easyx.cn/) library.\
+Chemistry-Master 是C++游戏，同时使用了[easyx](https://easyx.cn/)库。
 
-游戏内容没有多少，会更新的。手机端就算了，仅限Windows。
+You can play the latest version of the game by downloading [Released.zip](https://github.com/lingfunny/Chemistry-Master/blob/main/Release.zip) directly.\
+你可以通过直接下载[Released.zip](https://github.com/lingfunny/Chemistry-Master/blob/main/Release.zip)并解压，玩到最新版本的Chemistry-Master。
 
-咋下载？看右边的绿色Releases！
-
-![Step1](https://cdn.luogu.com.cn/upload/image_hosting/d43d9jfi.png)
-
-![Step2](https://cdn.luogu.com.cn/upload/image_hosting/1e6jsiyf.png)
+**But you'd better** download the game [here](https://github.com/lingfunny/Chemistry-Master/releases) and read the instruction of it.\
+**但你最好**[到这](https://github.com/lingfunny/Chemistry-Master/releases)下载最新版本并阅读说明。
 
 ### [Solutions](Solutions.md)
 
