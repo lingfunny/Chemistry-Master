@@ -2,17 +2,15 @@
 
 ## !NOTICE!
 
+Stop updating temporarily due to the senior high school entrance examination. [**v0.2.0**](#version-020-preview) will be released after the exam.\
 中考前暂时停止更新。中考后会发布[**v0.2.0**](#version-020-preview)。
-
-Stop updating temporarily due to the senior high school entrance examination. [**v0.2.0**](#version-020-preview) will be released after the exam.
 
 **From 2021.6.5 to 2021.7.7**
 
 ## Introduction
 
-**化学赛高**，所以做了这个~~寓教于乐的~~游戏\
-**I love Chemistry**, so I made this game\
-化学が**好き好き大好き**、だからこのゲームを作りました
+**I LOVE chemistry**, so I made this game\
+**化学赛高**，所以做了这个~~寓教于乐的~~游戏
 
 Chemistry-Master is a C++ Game and using [easyx](https://easyx.cn/) library.\
 Chemistry-Master 是C++游戏，同时使用了[easyx](https://easyx.cn/)库。
@@ -30,13 +28,16 @@ You can play the latest version of the game by downloading [Released.zip](https:
 Q：新版本的关卡进度不保留？\
 A：可以直接把旧版本的[save.dat]复制到新版本目录。
 
+Q：你整个游戏都是中文的，为什么在简介里要掺几句英文？\
+A：我喜欢放洋屁。
+
 ## Post Revisions
 
 ### Version 0.2.0 [Preview]
 
 - 优化界面设计
 - 完善`帮助`系统
-- ~~上传功能：可以上传你的自定义关卡并被别人搜索到~~
+- ~~上传功能：可以上传你的自定义关卡，并可以通过特殊编号访问~~
 
 ### [Version 0.1.4 [Latest Released Version]](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.4)
 
@@ -52,22 +53,3 @@ A：可以直接把旧版本的[save.dat]复制到新版本目录。
 - [v0.1.3](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.3)
 - [v0.1.2](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.2)
 - [v0.1.1](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.1)
-
-## How to Contribute
-
-- 已开放投稿。
-
-当前投稿有两种形式。
-
-1. 你需要描述你想出的题目，并且写出完整的解题思路，并将题目作为邮件发送至`lingfunny.real@qq.com`。\
-题目需要描述一开始拥有的化学物质和最终目标。\
-解题思路可以参考[官方题解](Solutions.md)。\
-**最最重要的是，请在你投稿邮件的主题加上`[投稿]`！！！**
-
-2. 你可以把你制作完的自定义关卡导出，然后作为邮件同样发送到`lingfunny.real@qq.com`。
-
-![一封优秀的投稿是怎样炼成的](https://cdn.luogu.com.cn/upload/image_hosting/phdjf2as.png)
-
-- 已开放BUG反馈。
-
-你可以对自己遇到的BUG进行描述，并**在电子邮件的主题加上`[反馈]`**，同样发送至`lingfunny.real@qq.com`。
