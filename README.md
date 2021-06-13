@@ -1,5 +1,7 @@
 # Chemistry-Master
 
+![Cover](https://repository-images.githubusercontent.com/367835501/ebbef400-cc42-11eb-8b4a-7bfa84304fb0)
+
 ## !NOTICE!
 
 Stop updating temporarily due to the senior high school entrance examination. [**v0.2.0**](#version-020-preview) will be released after the exam.\
