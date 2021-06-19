@@ -14,8 +14,8 @@ Stop updating temporarily due to the senior high school entrance examination. [*
 **I LOVE chemistry**, so I made this game\
 **化学赛高**，所以做了这个~~寓教于乐的~~游戏
 
-Chemistry-Master is a C++ Game and using the [easyx](https://easyx.cn/) library.\
-Chemistry-Master 是C++游戏，同时使用了[easyx](https://easyx.cn/)库。
+Chemistry-Master is a open source C++ project and using the [easyx](https://easyx.cn/) library.\
+Chemistry-Master 是一个开源的C++项目，同时使用了[easyx](https://easyx.cn/)库。
 
 You can play the latest version of the game by downloading [Released.zip](https://github.com/lingfunny/Chemistry-Master/blob/main/Release.zip) directly.\
 你可以通过直接下载[Released.zip](https://github.com/lingfunny/Chemistry-Master/blob/main/Release.zip)并解压，玩到最新版本的Chemistry-Master。
