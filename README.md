@@ -37,9 +37,7 @@ A：我喜欢放洋屁。
 
 ### Version 0.2.0 [Preview]
 
-- 优化界面设计
-- 完善`帮助`系统
-- ~~上传功能：可以上传你的自定义关卡，并可以通过特殊编号访问~~
+完善各项说明，推出新题型`???`，优化界面。
 
 ### [Version 0.1.4 [Latest Released Version]](https://github.com/lingfunny/Chemistry-Master/releases/tag/v0.1.4)
 
