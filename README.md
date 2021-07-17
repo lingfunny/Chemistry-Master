@@ -28,10 +28,19 @@ You can play the latest version of the game by downloading [Released.zip](https:
 ## Q&A
 
 Q：新版本的关卡进度不保留？\
-A：可以直接把旧版本的[save.dat]复制到新版本目录。
+A：可以直接把旧版本的 [save.dat] 复制到新版本目录下。
 
 Q：你整个游戏都是中文的，为什么在简介里要掺几句英文？\
 A：我喜欢放洋屁。
+
+## How to Contribute
+
+如果您发现了以下问题（包括但不限于），欢迎您在 `GitHub` 中提出 `Issues` 或通过邮箱`lingfunny.real@qq.com`联系我。
+
+- 觉得游戏界面设计可以优化
+- 发现错别字
+- 有一个**可实现的** idea
+- 发现了诡异的 BUG
 
 ## Post Revisions
 
