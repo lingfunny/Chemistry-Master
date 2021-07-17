@@ -4,10 +4,9 @@
 
 ## !NOTICE!
 
-Stop updating temporarily due to the senior high school entrance examination. [**v0.2.0**](#version-020-preview) will be released after the exam.\
-中考前暂时停止更新。中考后会发布[**v0.2.0**](#version-020-preview)。
+Continue to develop on July 17th.
 
-**From 2021.6.5 to 2021.7.7**
+7.17 恢复更新。
 
 ## Introduction
 
