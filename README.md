@@ -1,12 +1,8 @@
 # Chemistry-Master
 
-[![Cover](https://repository-images.githubusercontent.com/367835501/ebbef400-cc42-11eb-8b4a-7bfa84304fb0)](https://github.com/lingfunny/Chemistry-Master/releases)
-
 ## !NOTICE!
 
-Continue to develop on July 17th.
-
-7.17 恢复更新。
+暂时弃坑了。
 
 ## Introduction
 
