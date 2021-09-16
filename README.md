@@ -30,7 +30,7 @@ A：我喜欢放洋屁。
 
 ## How to Contribute
 
-如果您发现了以下问题（包括但不限于），欢迎您在 `GitHub` 中提出 `Issues` 或通过邮箱`lingfunny.real@qq.com`联系我。
+如果您发现了以下问题（包括但不限于），欢迎您在 `GitHub` 中提出 `Issues` 或通过邮箱`chemistrymaster@163.com`联系我。
 
 - 觉得游戏界面设计可以优化
 - 发现错别字
